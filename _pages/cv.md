@@ -14,6 +14,22 @@ Education
 * B.S. in Mathematics, Fudan University, 2010
 * M.S. in Computer Science, Syracuse University, 2016
 * Ph.D in Computer Science, Syracuse University, 2021 (expected)
+  * Advised by [Dr. Reza Zafarani](http://ecs.syr.edu/faculty/reza/)
+
+Awards and Grants
+======
+* 2018 
+  * ICDM 2018 Student Travel Award
+  * Syracuse University Travel Grant
+  
+* 2017
+  * CIKM’17/SIGIR Student TravelGrant
+  * Syracuse University Travel Grant
+  
+* 2016
+  * Outstanding Graduate Student in Computer Science (awarded only to one student in thecollege of engineering)
+  
+
 
 Work experience
 ======
