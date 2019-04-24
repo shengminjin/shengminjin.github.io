@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-The website is under construction.
+Currently a Ph.D. student in computer science at Syracuse University. I work in the [Data Lab](https://data.syr.edu/), advised by [Dr. Reza Zafarani](http://ecs.syr.edu/faculty/reza/). My research interests include machine learning and large scale graph mining. 
+
+For more details, please check my [publications](/publications/), and CV(/cv/).
