@@ -27,7 +27,7 @@ Awards and Grants
   * Syracuse University Travel Grant
   
 * 2016
-  * Outstanding Graduate Student in Computer Science (awarded only to one student in thecollege of engineering)
+  * Outstanding Graduate Student in Computer Science (<ins>awarded only to one student</ins> in the college of engineering)
   
 
 
