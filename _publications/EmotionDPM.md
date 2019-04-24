@@ -2,7 +2,7 @@
 title: "Emotions in social networks: Distributions, patterns, and models."
 collection: publications
 permalink: /publication/EmotionDPM
-excerpt: 'Emotions in Social Networks. Find how emotions vary across users, how they evolve, and how they are connected to social ties+the dual of structural balance (signed nodes instead of edges)'
+excerpt: 'Emotions in Social Networks. Find how emotions vary across users, how they evolve, and how they are connected to social ties+the dual of structural balance (signed nodes instead of edges).'
 date: 2017-11-06
 venue: 'CIKM'
 paperurl: 'http://shengminjin.github.io/files/EmotionDPM.pdf'
