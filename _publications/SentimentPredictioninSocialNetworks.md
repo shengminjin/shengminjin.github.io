@@ -2,7 +2,7 @@
 title: "Sentiment Prediction in Social Networks"
 collection: publications
 permalink: /publication/SentimentPredictioninSocialNetworks
-excerpt: 'An attempt to predict sentiments from network structure'
+excerpt: 'An attempt to predict sentiments from network structure.'
 date: 2018-11-17
 venue: 'ICDMW'
 paperurl: 'http://shengminjin.github.io/files/SentimentPrediction.pdf'
