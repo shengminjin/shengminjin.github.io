@@ -83,12 +83,12 @@ author:
   name             : "Shengmin Jin"
   avatar           : "s-l300.jpg"
   bio              : "A Ph.D Candidate at Syracuse University"
-  location         : "Location"
+  #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bfbWA4IAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Shengmin_Jin"
   uri              :
   bitbucket        :
   codepen          :
