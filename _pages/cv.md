@@ -34,12 +34,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, Matlab
+  * Java, C++
+  * Julia, Shell Script
+* Distributed  Platform
+  * Hadoop, Spark
+  * Hive, HBase
+  * Zookeeper
+* Database
+  * Oracle, MySQL,Teradata
+* Tools
+  * Docker, Git
 
 Publications
 ======
