@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/SentimentPredictioninSocialNetworks
 excerpt: 'An attempt to predict sentiments from network structure'
 date: 2018-11-17
-venue: 'ICDMW 2018'
+venue: 'ICDMW'
 paperurl: 'http://shengminjin.github.io/files/SentimentPrediction.pdf'
 citation: 'Jin, Shengmin, and Reza Zafarani. "Sentiment Prediction in Social Networks." 2018 IEEE International Conference on Data Mining Workshops (ICDMW). IEEE, 2018.'
 ---
