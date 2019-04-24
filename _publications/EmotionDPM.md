@@ -3,8 +3,8 @@ title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/EmotionDPM
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2016-11
+venue: 'CIKM 2017'
 paperurl: 'http://shengminjin.github.io/files/EmotionDPM.pdf'
 citation: 'Jin, Shengmin, and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.'
 ---
@@ -17,4 +17,4 @@ We address these questions using a large-scale dataset of users that contains bo
 
 [Download paper here](http://shengminjin.github.io/files/EmotionDPM.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Jin, Shengmin, and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.
