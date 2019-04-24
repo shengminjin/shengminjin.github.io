@@ -9,7 +9,7 @@ paperurl: 'http://shengminjin.github.io/files/EmotionDPM.pdf'
 citation: 'Jin, Shengmin, and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.'
 ---
 Abstract:
-
+======
 Understanding the role emotions play in social interactions has been a central research question in the social sciences. However, the challenge of obtaining large-scale data on human emotions has left the most fundamental
 questions on emotions less explored: How do emotions vary across individuals, evolve over time, and are connected to social ties?
 
