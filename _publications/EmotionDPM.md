@@ -3,7 +3,7 @@ title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/EmotionDPM
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2017-11
+date: 2017-11-06
 venue: 'CIKM 2017'
 paperurl: 'http://shengminjin.github.io/files/EmotionDPM.pdf'
 citation: 'Jin, Shengmin, and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.'
