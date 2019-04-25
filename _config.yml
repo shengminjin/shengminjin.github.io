@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shengmin Jin / Be a Serious Researcher"
+title                    : "Shengmin Jin"
 title_separator          : "-"
 name                     : &name "Shengmin Jin"
 description              : &description "A Ph.D Candidate at Syracuse University"
