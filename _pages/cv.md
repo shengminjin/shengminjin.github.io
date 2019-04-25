@@ -23,7 +23,7 @@ Awards and Grants
   * Syracuse University Travel Grant
   
 * 2017
-  * CIKM’17/SIGIR Student TravelGrant
+  * CIKM’17/SIGIR Student Travel Grant
   * Syracuse University Travel Grant
   
 * 2016
@@ -35,17 +35,17 @@ Work experience
 ======
 * 2010 - 2013: Software Engineer
   * eBay, Shanghai (DX team)
-  * Duties included: Built systems and machine learning models to drive significant amount of traffic to eBay sites across multiple marketing channels. Developed tools and enhancements to help driveand optimize ROI (Return On Investment) forthe business.
+  * Duties included: Built systems and machine learning models to drive significant amount of traffic to eBay sites across multiple marketing channels. Developed tools and enhancements to help driveand optimize ROI (Return On Investment) for the business.
   * Supervisor: Peijun Xu/Kang Liu
 
 * 2013 - 2014: Infrastructure Specialist
   * IBM, Shanghai
-  * Designed  and  deployed  the  Big  Data  Infras-tructure solutions IBM System Technology Group.
+  * Designed and deployed the Big Data Infrastructure solutions IBM System Technology Group.
   * Supervisor: Jianhua Rui
   
 * Summer 2015: Research Intern
   * University of Rochester, NY
-  * Built a personalized recommendation systemto recommend papers, books, collaborators etc.for researchers.
+  * Built a personalized recommendation system to recommend papers, books, collaborators etc.for researchers.
   * Supervisor: Canglin Wu
   
 Skills
