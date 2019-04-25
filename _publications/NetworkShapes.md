@@ -2,7 +2,7 @@
 title: "Representing Networks with 3D Shapes."
 collection: publications
 permalink: /publication/NetworkShapes
-excerpt: 'A method to represent *any* network with a 3D shape. Shapes capture various network properties: isomorphic graphs = same shapes, different graphs (random graphs, dense graphs, etc.) have different shapes. '
+excerpt: 'A method to represent **any** network with a 3D shape. Shapes capture various network properties: isomorphic graphs = same shapes, different graphs (random graphs, dense graphs, etc.) have different shapes. '
 date: 2018-11-18
 venue: 'ICDM'
 paperurl: 'https://shengminjin.github.io/files/NetworkShapes.pdf'
