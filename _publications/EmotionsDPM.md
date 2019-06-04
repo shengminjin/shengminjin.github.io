@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/EmotionsDPM
 excerpt: 'Find how emotions vary across users, how they evolve, and how they are connected to social ties+the dual of structural balance (signed nodes instead of edges).'
 date: 2017-11-06
-venue: 'CIKM'
+venue: 'CIKM (Acceptance Rate 21%)'
 paperurl: 'http://shengminjin.github.io/files/EmotionsDPM.pdf'
 citation: 'Jin, Shengmin, and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.'
 ---
