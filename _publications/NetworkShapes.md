@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/NetworkShapes
 excerpt: 'A method to represent **any** network with a 3D shape. Shapes capture various network properties: isomorphic graphs = same shapes, different graphs (random graphs, dense graphs, etc.) have different shapes. '
 date: 2018-11-18
-venue: 'ICDM'
+venue: 'ICDM (Acceptance Rate 8.86%)'
 paperurl: 'https://shengminjin.github.io/files/NetworkShapes.pdf'
 citation: 'Jin, Shengmin, and Reza Zafarani. "Representing Networks with 3D Shapes." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.'
 ---
