@@ -1,5 +1,5 @@
 ---
-title: "Emotions in social networks: Distributions, patterns, and models."
+title: "Network Identification and Authentication"
 collection: publications
 permalink: /publication/NetworkIDandAuth
 excerpt: 'A method to tell whether a graph is from Twitter or Facebook, and to verify the source of network data.'
