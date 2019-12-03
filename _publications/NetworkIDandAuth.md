@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/NetworkIDandAuth
 excerpt: 'Given an anonymized sampled graph, we can tell where it is sampled from, e.g., from Facebook, Twitter, or if it is a fake graph.'
 date: 2019-11-08
-venue: 'ICDM'
+venue: 'ICDM (Acceptance Rate 18.5%)'
 paperurl: 'http://shengminjin.github.io/files/NetworkIdentification.pdf'
 ---
 
