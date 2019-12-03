@@ -2,6 +2,9 @@
 title: "Network Identification and Authentication"
 collection: publications
 permalink: /publication/NetworkIDandAuth
+date: 2019-11-08
+venue: 'ICDM'
+paperurl: 'http://shengminjin.github.io/files/NetworkIdentification.pdf'
 ---
 
 Abstract:
