@@ -1,17 +1,15 @@
 ---
-title: "Emotions in social networks: Distributions, patterns, and models."
+title: "Network Identification and Authentication"
 collection: publications
-permalink: /publication/EmotionsDPM
-excerpt: 'Find how emotions vary across users, how they evolve, and how they are connected to social ties+the dual of
-structural balance (signed nodes instead of edges).'
-date: 2017-11-06
-venue: 'CIKM (Acceptance Rate 21%)'
-paperurl: 'http://shengminjin.github.io/files/EmotionsDPM.pdf'
-citation: 'Jin, Shengmin, and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.'
+permalink: /publication/NetworkIDandAuth
+excerpt: 'Given an anonymized sampled graph, we can tell where it is sampled from, e.e., from Facebook, Twitter, or if it's a fake graph.'
+date: 2019-11-08
+venue: 'ICDM'
+paperurl: 'http://shengminjin.github.io/files/NetworkIdentification.pdf'
 ---
+
 Abstract:
 ======
-Understanding the role emotions play in social interactions has been a central research question in the social sciences. However, the challenge of obtaining large-scale data on human emotions has left the most fundamental
-questions on emotions less explored: How do emotions vary across individuals, evolve over time, and are connected to social ties?
+ Research on networks is commonly performed using anonymized network data for various reasons such as protecting data privacy. Under such circumstances, it is difficult to verify the source of network data, which leads to questions such as: Given an anonymized graph, can we identify the network from which it is collected? Or if one claims the graph is sampled from a certain network, can we verify it? The intuitive approach is to check for subgraph isomorphism. However, subgraph isomorphism is NP-complete; hence, infeasible for most large networks. Inspired by biometrics studies, we address these challenges by formulating two new problems: network identification and network authentication. To tackle these problems, similar to research on human fingerprints, we introduce two versions of a network identity: (1) embedding-based identity and (2) distribution-based identity. We demonstrate the effectiveness of these network identities on various real-world networks. Using these identities, we propose two approaches for network identification. One method uses supervised learning and can achieve an identification accuracy rate of 94.7%, and the other, which is easier to implement, relies on distances between identities and achieves an accuracy rate of 85.5%. For network authentication, we propose two methods to build a network authentication system. The first is a supervised learner and provides a low false accept rate and the other method allows one to control the false reject rate with a reasonable false accept rate across networks. Our study can help identify or verify the source of network data, validate network-based research, and be used for network-based biometrics.
 
-We address these questions using a large-scale dataset of users that contains both their emotions and social ties. Using this dataset, we identify patterns of human emotions on five different network levels, starting from the user-level and moving up to the whole-network level. At the user-level, we identify how human emotions are distributed and vary over time. At the ego-network level, we find that assortativity is only observed with respect to positive moods. This observation allows us to introduce emotional balance, the "dual" of structural balance theory. We show that emotional balance has a natural connection to structural balance theory. At the community-level, we find that community members are emotionally-similar and that this similarity is stronger in smaller communities. Structural properties of communities, such as their sparseness or isolatedness, are also connected to the emotions of their members. At the whole-network level, we show that there is a tight connection between the global structure of a network and the emotions of its members. As a result, we demonstrate how one can accurately predict the proportion of positive/negative users within a network by only looking at the network structure. Based on our observations, we propose the Emotional-Tie model -- a network model that can simulate the formation of friendships based on emotions. This model generates graphs that exhibit both patterns of human emotions identified in this work and those observed in real-world social networks, such as ha
+ [Download paper here](http://shengminjin.github.io/files/NetworkIdentification.pdf)
