@@ -2,9 +2,9 @@
 title: "WebShapes: Network Visualization with 3D Shapes"
 collection: publications
 permalink: /publication/WebShapes
-excerpt: 'Given an anonymized sampled graph, we can tell where it is sampled from, e.g., from Facebook, Twitter, or if it is a fake graph.'
-date: 2019-11-08
-venue: 'ICDM'
+excerpt: 'A web platform: WebShapes that enables researchers and practitioners to visualize their network data as customized 3D shapes.'
+date: 2020-03-07
+venue: 'WSDM'
 paperurl: 'http://shengminjin.github.io/files/WebShapes.pdf'
 ---
 
