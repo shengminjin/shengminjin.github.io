@@ -17,4 +17,4 @@ We address these questions using a large-scale dataset of users that contains bo
 
 [Download paper here](http://shengminjin.github.io/files/EmotionsDPM.pdf)
 
-Recommended citation: Jin, Shengmin, and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.
+Recommended citation: Shengmin Jin and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.
