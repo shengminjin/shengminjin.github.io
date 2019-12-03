@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/WebShapes
 excerpt: 'A web platform: WebShapes that enables researchers and practitioners to visualize network data as customized 3D shapes.'
 date: 2020-03-07
-venue: 'WSDM'
+venue: 'WSDM '
 paperurl: 'http://shengminjin.github.io/files/WebShapes.pdf'
 ---
 
