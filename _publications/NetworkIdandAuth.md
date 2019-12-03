@@ -1,4 +1,4 @@
----	
+---
 title: "Network Identification and Authentication"	
 collection: publications	
 permalink: /publication/NetworkIDandAuth	
