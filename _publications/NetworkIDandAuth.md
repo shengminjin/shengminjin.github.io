@@ -6,6 +6,7 @@ excerpt: 'Given an anonymized sampled graph, we can tell where it is sampled fro
 date: 2019-11-08
 venue: 'ICDM (Acceptance Rate 18.5%)'
 paperurl: 'http://shengminjin.github.io/files/NetworkIdentification.pdf'
+citation: 'Shengmin Jin, Vir Phoha and Reza Zafarani. "Network Identification and Authentication" 2019 IEEE International Conference on Data Mining (ICDM). IEEE, 2019.'
 ---
 
 Abstract:
