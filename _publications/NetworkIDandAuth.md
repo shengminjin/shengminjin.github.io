@@ -2,7 +2,7 @@
 title: "Network Identification and Authentication"
 collection: publications
 permalink: /publication/NetworkIDandAuth
-excerpt: 'Given an anonymized sampled graph, we can tell where it is sampled from, or if it's a fake graph.'
+excerpt: 'Given an anonymized sampled graph, we can tell where it is sampled from, or if it is a fake graph.'
 date: 2019-11-08
 venue: 'ICDM'
 paperurl: 'http://shengminjin.github.io/files/NetworkIdentification.pdf'
