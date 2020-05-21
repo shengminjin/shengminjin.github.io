@@ -6,7 +6,7 @@ excerpt: 'A web platform: WebShapes that enables researchers to visualize networ
 date: 2020-03-07
 venue: 'WSDM '
 paperurl: 'http://shengminjin.github.io/files/WebShapes.pdf'
-citation: 'Shengmin Jin, Richard Wituszynski, Max Caiello-Gingold, and Reza Zafarani. "WebShapes: Network Visualization with 3D Shapes." Proceedings of the 13th International Conference on Web Search and Data Mining. 2020.'
+citation: '**Shengmin Jin**, Richard Wituszynski, Max Caiello-Gingold, and Reza Zafarani. "WebShapes: Network Visualization with 3D Shapes." Proceedings of the 13th International Conference on Web Search and Data Mining. 2020.'
 ---
 Abstract:
 ======
@@ -15,4 +15,4 @@ Network visualization has played a critical role in graph analysis, as it not on
 
 [Download paper here](http://shengminjin.github.io/files/WebShapes.pdf)
 
-Recommended citation: Shengmin Jin, Richard Wituszynski, Max Caiello-Gingold, and Reza Zafarani. "WebShapes: Network Visualization with 3D Shapes." Proceedings of the 13th International Conference on Web Search and Data Mining. 2020.
+Recommended citation: **Shengmin Jin**, Richard Wituszynski, Max Caiello-Gingold, and Reza Zafarani. "WebShapes: Network Visualization with 3D Shapes." Proceedings of the 13th International Conference on Web Search and Data Mining. 2020.
