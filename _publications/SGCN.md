@@ -6,7 +6,7 @@ excerpt: 'A neural network graph sparsifier that sparsifies a graph by pruning s
 date: 2020-05-11
 venue: 'PAKDD'
 paperurl: 'http://shengminjin.github.io/files/SGCNAGraphSparsifier.pdf'
-citation: 'Li, Jiayu, Tianyun Zhang, Hao Tian, **Shengmin Jin**, Makan Fardad, and Reza Zafarani. "SGCN: A Graph Sparsifier Based on Graph Convolutional Networks." Advances in Knowledge Discovery and Data Mining 12084: 275.'
+citation: 'Li, Jiayu, Tianyun Zhang, Hao Tian, Shengmin Jin, Makan Fardad, and Reza Zafarani. "SGCN: A Graph Sparsifier Based on Graph Convolutional Networks." Advances in Knowledge Discovery and Data Mining 12084: 275.'
 ---
 Abstract:
 ======
@@ -14,4 +14,4 @@ Graphs are ubiquitous across the globe and within science and engineering. With 
 
 [Download paper here](http://shengminjin.github.io/files/SGCNAGraphSparsifier.pdf)
 
-Recommended citation: Li, Jiayu, Tianyun Zhang, Hao Tian, **Shengmin Jin**, Makan Fardad, and Reza Zafarani. "SGCN: A Graph Sparsifier Based on Graph Convolutional Networks." Advances in Knowledge Discovery and Data Mining 12084: 275.
+Recommended citation: Li, Jiayu, Tianyun Zhang, Hao Tian, Shengmin Jin, Makan Fardad, and Reza Zafarani. "SGCN: A Graph Sparsifier Based on Graph Convolutional Networks." Advances in Knowledge Discovery and Data Mining 12084: 275.

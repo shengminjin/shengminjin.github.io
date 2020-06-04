@@ -6,7 +6,7 @@ excerpt: 'Find how emotions vary across users, how they evolve, and how they are
 date: 2017-11-06
 venue: 'CIKM (Acceptance Rate 21%)'
 paperurl: 'http://shengminjin.github.io/files/EmotionsDPM.pdf'
-citation: '**Shengmin Jin** and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.'
+citation: 'Shengmin Jin and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.'
 ---
 Abstract:
 ======
@@ -17,4 +17,4 @@ We address these questions using a large-scale dataset of users that contains bo
 
 [Download paper here](http://shengminjin.github.io/files/EmotionsDPM.pdf)
 
-Recommended citation: **Shengmin Jin** and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.
+Recommended citation: Shengmin Jin and Reza Zafarani. "Emotions in social networks: Distributions, patterns, and models." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.
