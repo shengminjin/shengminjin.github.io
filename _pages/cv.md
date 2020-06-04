@@ -58,7 +58,7 @@ Skills
   * Java, C++
   * Julia, Shell Script
 * Distributed  Platform
-  * Hadoop, Spark
+  * Hadoop
   * Hive, HBase
   * Zookeeper
 * Database
