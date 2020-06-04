@@ -47,7 +47,7 @@ Work experience
   
 * 2010 - 2013: Software Engineer
   * eBay, Shanghai (DX team)
-  * Duties included: Built systems and machine learning models to drive significant amount of traffic to eBay sites across multiple marketing channels. Developed tools and enhancements to help driveand optimize ROI (Return On Investment) for the business.
+  * Built systems and machine learning models to drive significant amount of traffic to eBay sites across multiple marketing channels. Developed tools and enhancements to help driveand optimize ROI (Return On Investment) for the business.
   * Supervisor: Peijun Xu/Kang Liu
   
   
