@@ -3,8 +3,8 @@ title: "Sentiment Paradoxes in Social Networks: Why Your Friends Are More Positi
 collection: publications
 permalink: /publication/SentimentParadox
 excerpt: 'We identified five sentiment paradoxes at different network levels.'
-date: 2020-05-11
-venue: 'PAKDD'
+date: 2020-08-11
+venue: 'ICWSM'
 paperurl: 'http://shengminjin.github.io/files/SentimentParadox.pdf'
 citation: 'Zhou, Xinyi, Shengmin Jin, and Reza Zafarani. "Sentiment Paradoxes in Social Networks: Why Your Friends Are More Positive Than You?." arXiv preprint arXiv:2005.00731 (2020).'
 ---
