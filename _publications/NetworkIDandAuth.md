@@ -1,5 +1,5 @@
 ---
-title: "Network Identification and Authentication"
+title: "Network Identification and Authentication."
 collection: publications
 permalink: /publication/NetworkIDandAuth
 excerpt: 'Given an anonymized sampled graph, we can tell where it is sampled from, e.g., from Facebook, Twitter, or a fake graph.'
