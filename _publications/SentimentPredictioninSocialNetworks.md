@@ -1,5 +1,5 @@
 ---
-title: "Sentiment Prediction in Social Networks"
+title: "Sentiment Prediction in Social Networks."
 collection: publications
 permalink: /publication/SentimentPredictioninSocialNetworks
 excerpt: 'An attempt to predict sentiments from network structure.'
