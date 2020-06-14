@@ -1,5 +1,5 @@
 ---
-title: "WebShapes: Network Visualization with 3D Shapes"
+title: "WebShapes: Network Visualization with 3D Shapes."
 collection: publications
 permalink: /publication/WebShapes
 excerpt: 'A web platform: WebShapes that enables researchers to visualize network data as customized 3D shapes.'
