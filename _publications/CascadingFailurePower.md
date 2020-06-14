@@ -1,5 +1,5 @@
 ---
-title: "A Probabilistic Cascading Failure Model for Dynamic Operating Conditions"
+title: "A Probabilistic Cascading Failure Model for Dynamic Operating Conditions."
 collection: publications
 permalink: /publication/CascadingFailureModel
 excerpt: 'A cascading failure model that can quantify the impact of failed grid components on other components.'
