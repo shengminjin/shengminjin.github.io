@@ -15,5 +15,3 @@ depend significantly on power system operating conditions. To make informed oper
 potential sequence of failures with a propagation tree model. The performance of the developed model under a specific operating condition is evaluated on both IEEE 30-bus and Illinois 200-bus systems, using various evaluation metrics such as Jaccard coefficient, F1 score, Precision@K, and Kendall’s tau.
 
 [Download paper here](http://shengminjin.github.io/files/CascadingFailureModel.pdf)
-
-Recommended citation: Ma, Rui, Shengmin Jin, Sara Eftekharnejad, Reza Zafarani, and Wolf Peter Jean Philippe. "A Probabilistic Cascading Failure Model for Dynamic Operating Conditions." IEEE Access 8 (2020): 61741-61753.
