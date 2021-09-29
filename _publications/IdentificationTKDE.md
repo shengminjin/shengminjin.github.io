@@ -1,10 +1,10 @@
 ---
 title: "Graph-based Identification and Authentication: A Stochastic Kronecker Approach"
 collection: publications
-permalink: /publication/GraphBasedIdentification
+permalink: /publication/IdentificationTKDE
 excerpt: 'We study the identification and authentication problems in the graph settings. We demonstrate the method can be used for biometrics, authenticating users based on their touch data on phones and tablets.'
 date: 2020-07-22
-venue: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
+venue: 'TKDE, 2020'
 paperurl: 'http://shengminjin.github.io/files/IdentificationTKDE.pdf'
 citation: 'Shengmin Jin, Vir Phoha and Reza Zafarani. "Graph-based Identification and Authentication: A Stochastic Kronecker Approach." IEEE Transactions on Knowledge and Data Engineering. 2020.'
 ---
