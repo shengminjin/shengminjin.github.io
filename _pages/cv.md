@@ -35,6 +35,11 @@ Awards and Grants
 
 Work experience
 ======
+* Summer 2020: Applied Scientist Intern
+  * Amazon
+  * Applied graph embedding techniques to improve the widget ranking system of the Penalization group.
+  * Supervisor: Brent Payne 
+
 * Summer 2015: Research Intern
   * University of Rochester, NY
   * Built a personalized recommendation system to recommend papers, books, collaborators etc.for researchers.
