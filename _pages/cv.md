@@ -24,6 +24,7 @@ Awards and Grants
   
 * 2019 
   * ICDM 2019 Student Travel Award
+  * Syracuse University Travel Grant
 
 * 2018 
   * ICDM 2018 Student Travel Award
