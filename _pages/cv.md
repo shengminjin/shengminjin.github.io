@@ -18,6 +18,10 @@ Education
 
 Awards and Grants
 ======
+* 2020
+  * Syracuse University ECS Research Day Best Poster
+  * KDD 2020 Student Registration Award
+  
 * 2019 
   * ICDM 2019 Student Travel Award
 
