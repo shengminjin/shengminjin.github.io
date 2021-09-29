@@ -1,7 +1,7 @@
 ---
 title: "Graph-based Identification and Authentication: A Stochastic Kronecker Approach"
 collection: publications
-permalink: /publication/IdentificationTKDE
+permalink: /publication/GraphIdentificationTKDE
 excerpt: 'We study the identification and authentication problems in the graph settings. We demonstrate the method can be used for biometrics, authenticating users based on their touch data on phones and tablets.'
 date: 2020-07-22
 venue: 'TKDE, 2020'
