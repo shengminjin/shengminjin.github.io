@@ -232,7 +232,7 @@ defaults:
       share: true
       comments: true
       
-  # _publications
+  # _tutorials
   - scope:
       path: ""
       type: tutorials
