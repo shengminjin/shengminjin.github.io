@@ -2,7 +2,7 @@
 title: "A Spectral Representation of Networks: The Path of Subgraphs"
 collection: publications
 permalink: /publication/SpectralPath
-excerpt: ''
+excerpt: 'We propose representing networks with a 3D path in the spectral embedding space, to capture the spectral information of a network and its subgraphs.'
 date: 2022-08-15
 venue: 'KDD (Acceptance Rate 15%)'
 paperurl: 'http://shengminjin.github.io/files/ThePathOfSubgraphs-KDD2022.pdf'
